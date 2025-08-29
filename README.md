@@ -2,14 +2,14 @@
 
 # Overview:
 
-## This challenge tests your understanding of Unity Events, triggers, and best practices for writing code.
+## This challenge tests your understanding of Unity Events, triggers, and best practices for writing code to determine if you're a good fit for our Fan-Remake project!
 
 Within this repo contains:
 - A **Player** object with a CharacterController (WASD and joystick/controller input is already implemented).
 - A **Button** object with a ButtonPress script attached.
 - A Confetti **Particle System** with an ActivateConfetti script attached.
 
-Your task is to implement the intended behavior so that the confetti pops when the button is pressed!
+Your task is to implement the below requirements so that the confetti pops when the button is pressed!
 
 ## Requirements:
 
